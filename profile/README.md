@@ -1,5 +1,3 @@
-# P-CATION
-
 ![P-CATION Logo](https://files.p-cation.de/Logos/Logo%20P-CATION%20R%20weiss.png)
 
 ---
